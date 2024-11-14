@@ -1,4 +1,4 @@
-clearSQL
+ClearSQL
 
 A modern, native database management tool with an elegant UI for simultaneously managing multiple database types including MySQL, PostgreSQL, and SQLite.
 
